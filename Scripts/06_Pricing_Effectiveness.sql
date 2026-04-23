@@ -1,6 +1,6 @@
 -- Project: SQL Data Analysis Project on a mid-sized online retailer.
 -- File: 06_Pricing_Effectiveness
--- Objective: Perform SQL queries on to help determine what customers are doing and how they behave.
+-- Objective: Perform SQL queries on to help determine how efficiently revenue is being generated
 ----------------------------------------------------------------------------------------------------------------------
 -- List all orders above £100
 SELECT
